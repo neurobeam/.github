@@ -1,2 +1,2 @@
 # neurobeam
-A software suite for conducting neuroscience experiments using real-time optogenetics, behavior, and microscopy.
+Democratized, production-ready software for neuroscience experiments using real-time optogenetics, behavior, and microscopy.
